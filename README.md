@@ -6,7 +6,7 @@ In this project, we use Grey Wolf Optimization for feature selection of a datase
 # How to use?
 First, you need to change the param method and set the numbers of your features in your dataset. in the next step, just run the optimizer file.
 
-# Cite out paper paper 
+# Cite our paper 
 
 ```latex
 @article{haddadpajouh2020multi,
